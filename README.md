@@ -38,4 +38,4 @@ To get started with the materials in this repository, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/inferential-statistics-for-data-science.git
+git clone https://github.com/Prasadbale/Inferential-Statistics.git
