@@ -3,14 +3,6 @@
 
 Welcome to the "Inferential Statistics for Data Science" repository! This repository is dedicated to providing resources and materials to help you learn and apply inferential statistics concepts in the field of data science. Whether you are a beginner or an experienced data scientist, you will find valuable content here to enhance your understanding of statistical inference.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Topics Covered](#topics-covered)
-3. [Getting Started](#getting-started)
-4. [Folder Structure](#folder-structure)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
@@ -20,6 +12,11 @@ Inferential statistics is a crucial component of data science that allows us to 
 
 This repository covers a wide range of inferential statistics topics, including but not limited to:
 
+- Basic Concepts of Probability
+    - Permutations and Combinations
+    - Definition of probability and its properties
+    - Key terms related to probability
+    - Probability rules (Addition and Multiplication)
 - Probability distributions
 - Hypothesis testing
 - Confidence intervals
