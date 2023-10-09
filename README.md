@@ -28,6 +28,10 @@ This repository covers a wide range of inferential statistics topics, including 
 
 Each topic will have dedicated folders containing relevant materials, such as PDFs for theory and Jupyter notebooks for practical examples and exercises.
 
+##
+Reference e-books:
+[Statistical Inference for Data Science](https://leanpub.com/LittleInferenceBook) by Brian Caffo 
+
 ## Getting Started
 
 To get started with the materials in this repository, follow these steps:
