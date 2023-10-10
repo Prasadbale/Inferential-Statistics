@@ -13,7 +13,7 @@ Inferential statistics is a crucial component of data science that allows us to 
 This repository covers a wide range of inferential statistics topics, including but not limited to:
 
 - [Introduction to Inferential Statistics](https://github.com/Prasadbale/Inferential-Statistics/blob/main/00%20Introduction.pdf)
-- [Introduction to Probability](https://github.com/Prasadbale/Inferential-Statistics/blob/main/01%20Introduction to Probability.pdf)
+- [Introduction to Probability](https://github.com/Prasadbale/Inferential-Statistics/blob/main/01%20Introduction%20to%20Probability.pdf)
     - Permutations and Combinations
     - Definition of Probability and its properties
     - Key terms related to probability
