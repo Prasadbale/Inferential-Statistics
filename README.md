@@ -18,7 +18,11 @@ This repository covers a wide range of inferential statistics topics, including 
     - Definition of Probability and its properties
     - Key terms related to probability
     - Rules of Probability (Addition and Multiplication)
-- Basic of Probability
+- Basics of Probability
+    - Random variables
+    - Probability Distribution
+    - Expected value
+    - [Exercise problem on Expected Value](https://github.com/Prasadbale/Inferential-Statistics/blob/main/Probability%20-%20Practice%20Questions%20-%20Expected%20Value.ipynb)
 - Probability distributions
 - Hypothesis testing
 - Confidence intervals
