@@ -24,6 +24,17 @@ This repository covers a wide range of inferential statistics topics, including 
     - Expected value
     - [Exercise problem on Expected Value](https://github.com/Prasadbale/Inferential-Statistics/blob/main/Probability%20-%20Practice%20Questions%20-%20Expected%20Value.ipynb)
 - Probability distributions
+    - Definition and types
+    - Descrete Probability Distribution
+        - Binomial Distribution
+        - Poisson Distribution
+        - Geometic Distribution
+    - Continous Probability Distribution
+        - Uniform Distribution
+        - Normal / Gaussian Distribution
+        - Standard Normal Distribution
+    - Practice Questions
+- Central Limit Theorem
 - Hypothesis testing
 - Confidence intervals
 - Bayesian inference
