@@ -34,11 +34,11 @@ This repository covers an array of inferential statistics topics, including but 
     - Continuous Probability Distributions
         - Uniform, Normal (Gaussian), and Standard Normal Distributions
     - Problem Sets
-- Central Limit Theorem
+- [Central Limit Theorem](https://github.com/Prasadbale/Inferential-Statistics/blob/main/04%20Central%20Limit%20Theorem.pdf)
     - Sampling
     - Properties of Sampling Distribution of Sample Means
     - Central Limit Theorem
-    - CLT with Real Examples
+    - [CLT with Real Examples](https://github.com/Prasadbale/Inferential-Statistics/tree/main/Central%20Limit%20Theorem%20-%20Demonstration)
     - Confidence Intervals (Z-scores)
 
 Each topic is meticulously organized within dedicated folders, housing a wealth of relevant materials, including in-depth theory through PDFs and practical examples and exercises via Jupyter notebooks.
