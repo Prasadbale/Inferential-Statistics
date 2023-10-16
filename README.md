@@ -2,9 +2,9 @@
   <img src="https://media.datadriveninvestor.com/uploads/2019/02/sampling.jpg" alt="Project Logo" width="200">
 </p>
 
-<h1 align="center">Inferential Statistics for Data Science</h1>
+<h1 align="center">Inferential Statistics</h1>
 
-<p align="center">
+<p align="left">
   Welcome to the "Inferential Statistics for Data Science" repository! This comprehensive resource is designed to help you master the art of inferential statistics, enabling you to draw insightful conclusions from data in the realm of data science. Whether you're a novice starting your data science journey or an experienced pro, you'll find valuable knowledge and practical applications right here.
 </p>
 
