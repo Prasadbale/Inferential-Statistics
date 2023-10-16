@@ -1,59 +1,57 @@
-# Inferential-Statistics
+<p align="center">
+  <img src="https://media.datadriveninvestor.com/uploads/2019/02/sampling.jpg" alt="Project Logo" width="200">
+</p>
 
+<h1 align="center">Inferential Statistics for Data Science</h1>
 
-Welcome to the "Inferential Statistics for Data Science" repository! This repository is dedicated to providing resources and materials to help you learn and apply inferential statistics concepts in the field of data science. Whether you are a beginner or an experienced data scientist, you will find valuable content here to enhance your understanding of statistical inference.
+<p align="center">
+  Welcome to the "Inferential Statistics for Data Science" repository! This comprehensive resource is designed to help you master the art of inferential statistics, enabling you to draw insightful conclusions from data in the realm of data science. Whether you're a novice starting your data science journey or an experienced pro, you'll find valuable knowledge and practical applications right here.
+</p>
 
+## 📖 Introduction
 
-## Introduction
+Inferential statistics is the cornerstone of data science, allowing you to extract meaningful insights and make informed decisions based on data. This repository offers a wealth of resources, including detailed PDF documents and interactive Jupyter notebooks, to help you grasp the fundamentals of inferential statistics and apply them to real-world data analysis projects.
 
-Inferential statistics is a crucial component of data science that allows us to make inferences and draw conclusions from data. This repository aims to provide a comprehensive collection of resources, including PDF documents and Jupyter notebooks, to help you grasp the fundamentals of inferential statistics and apply them to real-world data analysis projects.
+## 📚 Topics Covered
 
-## Topics Covered
-
-This repository covers a wide range of inferential statistics topics, including but not limited to:
+This repository covers an array of inferential statistics topics, including but not limited to:
 
 - [Introduction to Inferential Statistics](https://github.com/Prasadbale/Inferential-Statistics/blob/main/00%20Introduction.pdf)
 - [Introduction to Probability](https://github.com/Prasadbale/Inferential-Statistics/blob/main/01%20Introduction%20to%20Probability.pdf)
     - Permutations and Combinations
-    - Definition of Probability and its properties
-    - Key terms related to probability
-    - Rules of Probability (Addition and Multiplication)
+    - Define Probability and Its Properties
+    - Key Concepts in Probability
+    - Fundamental Rules of Probability (Addition and Multiplication)
 - [Basics of Probability](https://github.com/Prasadbale/Inferential-Statistics/blob/main/02%20Basics%20of%20Probability.pdf)
-    - Random variables
-    - Probability Distribution
-    - Expected value
-    - [Exercise problem on Expected Value](https://github.com/Prasadbale/Inferential-Statistics/blob/main/Probability%20-%20Practice%20Questions%20-%20Expected%20Value.ipynb)
-- [Probability distributions](https://github.com/Prasadbale/Inferential-Statistics/blob/main/03%20Probability%20Distributions.pdf)
-    - Definition and types
-    - Descrete Probability Distribution
-        - Binomial Distribution
-        - Poisson Distribution
-        - Geometic Distribution
-    - Continous Probability Distribution
-        - Uniform Distribution
-        - Normal / Gaussian Distribution
-        - Standard Normal Distribution
-    - Practice Questions
+    - Random Variables
+    - Navigate Probability Distributions
+    - Calculate Expected Values
+    - [Practice Problems on Expected Value](https://github.com/Prasadbale/Inferential-Statistics/blob/main/Probability%20-%20Practice%20Questions%20-%20Expected%20Value.ipynb)
+- [Probability Distributions](https://github.com/Prasadbale/Inferential-Statistics/blob/main/03%20Probability%20Distributions.pdf)
+    - Understand Definitions and Types
+    - Discrete Probability Distributions
+        - Binomial, Poisson, and Geometric Distributions
+    - Continuous Probability Distributions
+        - Uniform, Normal (Gaussian), and Standard Normal Distributions
+    - Problem Sets
 - Central Limit Theorem
-- Hypothesis testing
-- Confidence intervals
-- Bayesian inference
-- Regression analysis
-- Analysis of variance (ANOVA)
-- Non-parametric statistics
-- And more!
+    - Sampling
+    - Properties of Sampling Distribution of Sample Means
+    - Central Limit Theorem
+    - CLT with Real Examples
+    - Confidence Intervals (Z-scores)
 
-Each topic will have dedicated folders containing relevant materials, such as PDFs for theory and Jupyter notebooks for practical examples and exercises.
+Each topic is meticulously organized within dedicated folders, housing a wealth of relevant materials, including in-depth theory through PDFs and practical examples and exercises via Jupyter notebooks.
 
-##
-Reference e-books:
-[Statistical Inference for Data Science](https://leanpub.com/LittleInferenceBook) by Brian Caffo 
+## 📚 Reference E-books
+- [Statistical Inference for Data Science](https://leanpub.com/LittleInferenceBook) by Brian Caffo 
 
-## Getting Started
+## 🚀 Getting Started
 
-To get started with the materials in this repository, follow these steps:
+To embark on your journey through this repository, follow these simple steps:
 
-1. Clone the repository to your local machine:
+1. **Clone** the repository to your local machine:
 
 ```bash
 git clone https://github.com/Prasadbale/Inferential-Statistics.git
+
