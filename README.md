@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.datadriveninvestor.com/uploads/2019/02/sampling.jpg" alt="Project Logo" width="500">
+  <img src="https://media.datadriveninvestor.com/uploads/2019/02/sampling.jpg" alt="Project Logo" width="400">
 </p>
 
 <h1 align="center">Inferential Statistics</h1>
